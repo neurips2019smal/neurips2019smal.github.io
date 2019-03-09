@@ -1,4 +1,7 @@
-# nips2018vigil.github.io
-Webpage source files for ViGIL 2.0 workshop at NIPS 2018
+# neurips2019smal.github.io
+
+Webpage source files for SMaL workshop at NeurIPS 2019
+
+Template forked with permission from
 
 https://nips2018vigil.github.io/
