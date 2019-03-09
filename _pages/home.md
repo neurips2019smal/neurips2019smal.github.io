@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "Visually Grounded Interaction and Language (ViGIL)"
-title: "Visually Grounded Interaction and Language (ViGIL)"
-categories: nips, montreal, canada, workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2018, nips18
+urltitle:  "Maths and Machine Learning (sMaL)"
+title: "Maths and Machine Learning (sMaL)"
+categories: nips, neurips, vancouver, canada, workshop, mathematics, machine learning, smal, 2019, neurips19
 permalink: /
 <!-- favicon: /static/img/embodiedqa/favicon.png -->
 bibtex: true
@@ -13,8 +13,8 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
-    <center><h2>NeurIPS 2018 Workshop, Montreal, Canada</h2></center>
+    <center><h1>Maths and Machine Learning (sMaL)</h1></center>
+    <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 7th December, 08:30 AM to 06:30 PM,
       Room: 512 CDGH
