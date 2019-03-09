@@ -201,11 +201,11 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/stevanharnad.png" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/terencetao.png" | prepend:site.baseurl }}">
     <p><b>Terence Tao</b>
-    is Professor of Cognitive Sciences in the Department of Psychology at Université du Québec à Montréal, and Professor of Web Science in the Department of Electronics and Computer Science, at University of Southampton, UK.
-    His research is on categorisation, communication, cognition and the open research web.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.ecs.soton.ac.uk/people/harnad">Webpage</a>]</span></p>
+    is Professor of mathematics at the University of California, Los Angeles, and was awarded the 2006 Fields Medal and the 2014 Breakthrough Prize in Mathematics.
+    His research is on harmonic analysis, partial differential equations, algebraic combinatorics, arithmetic combinatorics, geometric combinatorics, compressed sensing and analytic number theory.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.math.ucla.edu/~tao/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
