@@ -242,155 +242,17 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
 </div>
 
 <div class="row">
+  
   <div class="col-xs-3">
-    <a href="https://fstrub95.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}">
+    <a href="https://lucehe.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/lucehe.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://fstrub95.github.io/">Florian Strub</a>
-      <h6>University of Lille, Inria | DeepMind</h6>
+      <a href="https://lucehe.github.io/">Luca Herrtti</a>
+      <h6>Université de Sherbrooke</h6>
     </div>
   </div>
 
-  <div class="col-xs-3">
-    <a href="http://www-etud.iro.umontreal.ca/~devries/">
-      <img class="people-pic" src="{{ "/static/img/people/harmdevries.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www-etud.iro.umontreal.ca/~devries/">Harm de Vries</a>
-      <h6>University of Montreal</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="http://wijmans.xyz/">
-      <img class="people-pic" src="{{ "/static/img/people/erikwijmans.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://wijmans.xyz/">Erik Wijmans</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="https://samyak-268.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/samyak.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://samyak-268.github.io/">Samyak Datta</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="http://ethanperez.net/">
-      <img class="people-pic" src="{{ "/static/img/people/ethanperez.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://ethanperez.net/">Ethan Perez</a>
-      <h6>New York University</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="https://www.cc.gatech.edu/~slee3191/">
-      <img class="people-pic" src="{{ "/static/img/people/stefan.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="http://www.panderson.me/">
-      <img class="people-pic" src="{{ "/static/img/people/peter.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.panderson.me/">Peter Anderson</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="http://www.mateuszmalinowski.com/">
-      <img class="people-pic" src="{{ "/static/img/people/mateusz-malinowski-dp.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.mateuszmalinowski.com/">Mateusz Malinowski</a>
-      <h6>DeepMind</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="https://www.cc.gatech.edu/~dbatra/">
-      <img class="people-pic" src="{{ "/static/img/people/dhruv-batra-dp.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a>
-      <h6>Georgia Tech | Facebook AI Research</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="https://mila.quebec/en/person/aaron-courville/">
-      <img class="people-pic" src="{{ "/static/img/people/aaron-courville-dp.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://mila.quebec/en/person/aaron-courville/">Aaron Courville</a>
-      <h6>University of Montreal</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="http://www.lifl.fr/~pietquin/">
-      <img class="people-pic" src="{{ "/static/img/people/olivier-pietquin-dp.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.lifl.fr/~pietquin/">Olivier Pietquin</a>
-      <h6>Google Brain</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="https://www.cc.gatech.edu/~dparikh/">
-      <img class="people-pic" src="{{ "/static/img/people/devi-parikh-dp.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~dparikh/">Devi Parikh</a>
-      <h6>Georgia Tech | Facebook AI Research</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="http://www.merl.com/people/chori">
-      <img class="people-pic" src="{{ "/static/img/people/chiori-hori-dp.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.merl.com/people/chori">Chiori Hori</a>
-      <h6>MERL</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="http://users.cecs.anu.edu.au/~cherian/">
-      <img class="people-pic" src="{{ "/static/img/people/anoop-cherian-dp.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://users.cecs.anu.edu.au/~cherian/">Anoop Cherian</a>
-      <h6>MERL</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
-    <a href="http://www.merl.com/people/tmarks">
-      <img class="people-pic" src="{{ "/static/img/people/tim-marks-dp.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.merl.com/people/tmarks">Tim Marks</a>
-      <h6>MERL</h6>
-    </div>
-  </div>
 
 </div>
 
