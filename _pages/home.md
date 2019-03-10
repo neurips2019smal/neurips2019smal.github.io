@@ -212,7 +212,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/suryaganguli.jpeg" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/suryaganguli.jpg" | prepend:site.baseurl }}">
     <p><b>Surya Ganguli</b>
     is Professor of applied physics at Stanford University, Los Angeles, and was awarded the 2016 Investigator Award in Mathematical Modeling of Living Systems by Simons Foundation.
       His research is focused on understanding Machine Learning and Neuroscience with techniques from a wide range of disciplines such as statistical mechanics, dynamical systems theory and information theory.
