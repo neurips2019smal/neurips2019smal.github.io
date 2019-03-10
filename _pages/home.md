@@ -245,7 +245,7 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
   
   <div class="col-xs-3">
     <a href="https://lucehe.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/lucehe.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/lucehe.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://lucehe.github.io/">Luca Herrtti</a>
