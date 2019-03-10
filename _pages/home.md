@@ -61,7 +61,7 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>November <strike>8</strike> 9th, 2018 </td>
+          <td>November 9th, 2018 </td>
         </tr>
         <tr>
           <td>Workshop Date</td>
