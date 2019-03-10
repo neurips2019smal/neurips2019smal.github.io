@@ -85,22 +85,12 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
 
   <p>
   <ul>
-  <li>language acquisition or learning through interactions</li>
-  <li>visual captioning, dialog, and question-answering</li>
-  <li>reasoning in language and vision</li>
-  <li>visual synthesis from language</li>
-  <li>transfer learning in language and vision tasks</li>
-  <li>navigation in virtual worlds with natural-language instructions</li>
-  <li>machine translation with visual cues</li>
-  <li>novel tasks that combine language, vision and actions</li>
-  <li>understanding and modeling the relationship between language and vision in humans</li>
-  <li>semantic systems and modeling of natural language and visual stimuli representations in the human brain</li>
-  <li> audio visual scene-aware dialog systems - Visual Question Answering</li>
-  <li> image/video captioning</li>
-  <li> lip reading</li>
-  <li> audio-visual scene understanding - Sound localization </li>
-  <li> audio-visual speech processing </li>
-  <li> audio-visual fusion </li>
+  <li>stochastic differential equations to model gradient flow</li>
+  <li>deep learning to solve long standing physics problems</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
     </p>
 
@@ -266,7 +256,7 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
   
   <div class="col-xs-3">
     <a href="https://lucehe.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/lucehe.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://lucehe.github.io/">Luca Herrtti</a>
