@@ -40,23 +40,9 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-    The dominant paradigm in modern natural language understanding is learning statistical language models from text-only corpora. This approach is founded on a distributional notion of semantics, i.e. that the "meaning" of a word is based only on its relationship to other words. While effective for many applications, methods in this family suffer from limited semantic understanding, as they miss learning from the multimodal and interactive environment in which communication often takes place - the symbols of language thus are not grounded in anything concrete. The symbol grounding problem first highlighted this limitation, that "meaningless symbols (i.e.) words cannot be grounded in anything but other meaningless symbols" [18].
-</p>
+Deep Networks are becoming a standard approach to solve complex dynamical equations in Physics but at the same time we lack a mathematical complete understanding of the dynamics of Deep Networks themselves. Here is where this Workshop is placed, in the tension and potential of gaining deeper insight into the mathematics of learning and using learning algorithms to gain deeper understanding of mathematical problems.</p>
 
-<p>
-On the other hand, humans acquire language by communicating about and interacting within a rich, perceptual environment. This behavior provides the necessary grounding for symbols, i.e. to concrete objects or concepts (i.e. physical or psychological). Thus, recent work has aimed to bridge vision, interactive learning, and natural language understanding through language learning tasks based on natural images (ReferIt [1], GuessWhat?! [2], Visual Question Answering [3,4,5,6], Visual Dialog [7], Captioning [8]) or through embodied agents performing interactive tasks [13,14,17,22,23,24,26] in physically simulated environments (DeepMind Lab [9], Baidu XWorld [10], OpenAI Universe [11], House3D [20], Matterport3D [21], GIBSON [24], MINOS [35], AI2-THOR [19], StreetLearn [17]), often drawing on the recent successes of deep learning and reinforcement learning. We believe this line of research poses a promising, long-term solution to the grounding problem faced by current, popular language understanding models.
-</p>
-
-
-<p>
-While machine learning research exploring visually-grounded language learning may be in its earlier stages, it may be possible to draw insights from the rich research literature on human language acquisition. In neuroscience, recent progress in fMRI technology has enabled to better understand the interleave between language, vision and other modalities [15,16] suggesting that the brains shares neural representation of concepts across vision and language. Differently, developmental cognitive scientists have also argued that children acquiring various words is closely linked to them learning the underlying concept in the real world [12].
-</p>
-
-<p>
-This workshop thus aims to gather people from various backgrounds - machine learning, computer vision, natural language processing, neuroscience, cognitive science, psychology, and philosophy - to share and debate their perspectives on why grounding may (or may not) be important in building machines that truly understand natural language.
-
-</p>
-  </div>
+</div>
 </div> <br>
 
 <div class="row" id="dates">
