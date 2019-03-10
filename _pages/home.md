@@ -203,12 +203,22 @@ This workshop thus aims to gather people from various backgrounds - machine lear
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/terencetao.png" | prepend:site.baseurl }}">
     <p><b>Terence Tao</b>
-    is Professor of mathematics at the University of California, Los Angeles, and was awarded the 2006 Fields Medal and the 2014 Breakthrough Prize in Mathematics.
-    His research is on harmonic analysis, partial differential equations, algebraic combinatorics, arithmetic combinatorics, geometric combinatorics, compressed sensing and analytic number theory.
+    is Professor of mathematics at the University of California, Los Angeles, and was awarded the 2006 Fields Medal.
+    His research focuses on harmonic analysis, partial differential equations, algebraic combinatorics, arithmetic combinatorics, geometric combinatorics, compressed sensing and analytic number theory.
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.math.ucla.edu/~tao/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/suryaganguli.jpeg" | prepend:site.baseurl }}">
+    <p><b>Surya Ganguli</b>
+    is Professor of applied physics at Stanford University, Los Angeles, and was awarded the 2016 Investigator Award in Mathematical Modeling of Living Systems by Simons Foundation.
+      His research is focused on understanding Machine Learning and Neuroscience with techniques from a wide range of disciplines such as statistical mechanics, dynamical systems theory and information theory.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://ganguli-gang.stanford.edu/surya.html">Webpage</a>]</span></p>
+  </div>
+</div><br>
 
 <div class="row" id="recordings">
     <div class="col-xs-12">
