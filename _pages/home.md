@@ -446,20 +446,6 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Previous sessions</h2>
-  </div>
-</div>
-<a name="/prev_session"></a>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      <a href="https://nips2017vigil.github.io/">2017</a>
-    </p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
     <h2>References</h2>
   </div>
 </div>
@@ -467,84 +453,11 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
   <div class="col-md-12">
     <ol>
     <li>
-     Sahar Kazemzadeh et al. "ReferItGame: Referring to Objects in Photographs of Natural Scenes." EMNLP, 2014.
+     Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
     </li>
     <li>
- Harm de Vries et al. "GuessWhat?! Visual object discovery through multi-modal dialogue." CVPR, 2017.
+ Pratik Chaudhari et al. "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks." ICLR, 2018.
 </li>
-<li>
- Stanislaw Antol et al. "Vqa: Visual question answering." ICCV, 2015.
-</li>
-<li>
- Mateusz Malinowski et al. "Ask Your Neurons: A Neural-based Approach to Answering Questions about Images." ICCV, 2015.
- </li>
- <li>
- Mateusz Malinowski et al. "A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input." NIPS, 2014.
- </li>
-
- <li>
- Geman Donald, et al. "Visual Turing test for computer vision systems." PNAS, 2015.
- </li>
- <li>
- Abhishek Das et al. "Visual dialog." CVPR, 2017.
- </li>
- <li>
- Anna Rohrbach et al. "Generating Descriptions with Grounded and Co-Referenced People." CVPR, 2017.
- </li>
- <li>
- Charles Beattie et al. Deepmind lab. arXiv, 2016.
- </li>
- <li>
- Haonan Yu et al. "Guided Feature Transformation (GFT): A Neural Language Grounding Module for Embodied Agents." arXiv, 2018.
- </li>
- <li>
- Openai universe. https://universe.openai.com, 2016.
- </li>
- <li>
- Alison Gopnik et al. "Semantic and cognitive development in 15- to 21-month-old children." Journal of Child Language, 1984.
- </li>
- <li>
- Abhishek Das et al. "Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning." ICCV, 2017.
- </li>
- <li>
- Karl Moritz Hermann et al. "Grounded Language Learning in a Simulated 3D World." arXiv, 2017.
- </li>
- <li>
- Alexander G. Huth et al. "Natural speech reveals the semantic maps that tile human cerebral cortex." Nature, 2016.
- </li>
- <li>
- Alexander G. Huth, et al. "Decoding the semantic content of natural movies from human brain activity." Frontiers in systems neuroscience, 2016.
- </li>
- <li>
- Piotr Mirowski et al. "Learning to Navigate in Cities Without a Map." arXiv, 2018.
- </li>
- <li>
- Stevan Harnad. "The symbol grounding problem." CNLS, 1989.
- </li>
- <li>
- E Kolve, R Mottaghi, D Gordon, Y Zhu, A Gupta, A Farhadi. "AI2-THOR: An Interactive 3D Environment for Visual AI." arXiv, 2017.
- </li>
- <li>
- Yi Wu et al. "House3D: A Rich and Realistic 3D Environment." arXiv, 2017.
- </li>
- <li>
- Angel Chang et al. "Matterport3D: Learning from RGB-D Data in Indoor Environments." arXiv, 2017.
- </li>
- <li>
- Abhishek Das et al. "Embodied Question Answering." CVPR, 2018.
- </li>
- <li>
- Peter Anderson et al. "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments." CVPR, 2018.
- </li>
- <li>
- Fei Xia et al. "Gibson Env: Real-World Perception for Embodied Agents." CVPR, 2018.
- </li>
- <li>
- Manolis Savva et al. "MINOS: Multimodal indoor simulator for navigation in complex environments." arXiv, 2017.
- </li>
- <li>
- Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, Ali Farhadi. "IQA: Visual Question Answering in Interactive Environments." CVPR, 2018.
- </li>
     </ol>
   </div>
 </div>
