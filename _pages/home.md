@@ -206,6 +206,27 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
   </div>
 </div><br>
 
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/animaanandkumar.jpg" | prepend:site.baseurl }}">
+    <p><b>Anima Anandkumar</b>
+    is Professor of.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://tensorlab.cms.caltech.edu/users/anima/">Webpage</a>]</span></p>
+  </div>
+</div><br>
+
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/konstantinosspiliopoulos.jpg" | prepend:site.baseurl }}">
+    <p><b>Konstantinos Spiliopoulos</b>
+    is Professor of .
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://math.bu.edu/people/kspiliop/">Webpage</a>]</span></p>
+  </div>
+</div><br>
+
+
 <div class="row" id="recordings">
     <div class="col-xs-12">
     <h2>Recordings</h2>
