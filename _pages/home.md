@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Maths and Machine Learning (sMaL)"
-title: "Maths and Machine Learning (sMaL)"
+urltitle:  "Scientific Models and Machine Learning (SMMaL)"
+title: "Scientific Models and Machine Learning (SMMaL)"
 categories: nips, neurips, vancouver, canada, workshop, mathematics, machine learning, smal, 2019, neurips19
 permalink: /
 <!-- favicon: /static/img/embodiedqa/favicon.png -->
@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Maths and Machine Learning (sMaL)</h1></center>
+    <center><h1>Scientific Models and Machine Learning (SMMaL)</h1></center>
     <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 7th December, 08:30 AM to 06:30 PM,
@@ -186,6 +186,17 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
 </div><br>
 
 
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/aasaferagen.jpg" | prepend:site.baseurl }}">
+    <p><b>Aasa Feragen</b>
+    is Professor of.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://sites.google.com/site/aasaferagen/">Webpage</a>]</span></p>
+  </div>
+</div><br>
+
+
 <div class="row">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/suryaganguli.jpg" | prepend:site.baseurl }}">
@@ -215,6 +226,17 @@ Deep Networks are becoming a standard approach to solve complex dynamical equati
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://math.bu.edu/people/kspiliop/">Webpage</a>]</span></p>
   </div>
 </div><br>
+
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/weinane.jpg" | prepend:site.baseurl }}">
+    <p><b>Weinan E</b>
+    is Professor of .
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://web.math.princeton.edu/~weinan/">Webpage</a>]</span></p>
+  </div>
+</div><br>
+
 
 
 <div class="row" id="recordings">
