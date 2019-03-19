@@ -40,7 +40,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-Deep Networks are becoming a standard approach to solve complex dynamical equations in Physics but at the same time we lack a mathematical complete understanding of the dynamics of Deep Networks themselves. Here is where this Workshop is placed, in the tension and potential of gaining deeper insight into the mathematics of learning and using learning algorithms to gain deeper understanding of mathematical problems.</p>
+Machine Learning with Deep Neural Networks has been progressively adapted as a computational tool in natural sciences and mathematics. Significant advances have been made in enhancing numerical simulation methods with ML and solving complex dynamical equations. But at the same time a complete understanding of the dynamics of DNNs themselves is lacking. This Workshop is placed in the tension between the two viewpoints, exploring the take-and-give relationship between mathematical sciences and ML with the aim of gaining deeper insight into the mathematics of ML, and using ML algorithms to solve mathematical problems in science.</p>
 
 </div>
 </div> <br>
