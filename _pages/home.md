@@ -288,6 +288,16 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
   </div>
 
   <div class="col-xs-3">
+    <a href="http://thorjonsson.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/thor.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href=http://thorjonsson.github.io/">Thor Jonsson</a>
+      <h6>University of Guelph</h6>
+    </div>
+  </div>
+
+<div class="col-xs-3">
     <a href="https://lucehe.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
     </a>
