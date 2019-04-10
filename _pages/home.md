@@ -277,6 +277,17 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
 <div class="row">
   
   <div class="col-xs-3">
+    <a href="http://rlily.hu/">
+      <img class="people-pic" src="{{ "/static/img/people/Lily.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://rlily.hu/">Lily Hu</a>
+      <h6>Salesforce Research</h6>
+      <h6>University of California, Berkeley</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
     <a href="https://lucehe.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
     </a>
@@ -285,7 +296,6 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
       <h6>Université de Sherbrooke</h6>
     </div>
   </div>
-
 
 </div>
 
