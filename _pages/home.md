@@ -85,9 +85,11 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
 
   <p>
   <ul>
+  <li>novel ways to use AI to understand mathematical models</li>
+  <li>novel ways to use scientific models to understand AI</li>
   <li>stochastic differential equations to model gradient flow</li>
   <li>deep learning to solve long standing physics problems</li>
-  <li></li>
+  <li>deep learning for high-dimensional Partial Differential Equations</li>
   <li></li>
   <li></li>
   <li></li>
@@ -137,30 +139,32 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
   <div class="col-xs-12">
     <ul>
       <li>08:30 AM : Opening Remarks                        </li>
-      <li>08:40 AM : Invited Speaker 1: Steven Harnad - The symbol grounding problem  | <a href="https://github.com/nips2018vigil/nips2018vigil.github.io/blob/master/static/slides/harnad.pptx?raw=true">Slides</a> </li>
-      <li>09:20 AM : Invited Speaker 2: Antonio Torralba - Learning to See and Hear    </li>
+      <p><b>Scientific Models to understand Deep Learning</b></p>
+      <li>08:40 AM : Invited Speaker 1: Surya Ganguli - An analytic theory of generalization dynamics and transfer learning in deep linear networks  | <a href="https://google.com">Slides (still unavailable)</a> </li>
+      <li>09:20 AM : Invited Speaker 2: Terrence Tao - On the universality of the incompressible Euler equation on compact manifolds, II. Non-rigidity of Euler flows   | <a href="https://google.com">Slides (still unavailable)</a> </li>
       <li>10:00 AM : Audio Visual Semantic Understanding Challenge </li>
       <li>10:15 AM : Spotlights (6*2min)
       <ul>
-        <li>A Distributional Semantic Model of Visually Indirect Grounding for Abstract Words- <i>Akira Utsumi</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/36.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
-        <li>Visual Reasoning by Progressive Module Network- <i>SeungWook Kim, Makarand Tapaswi, Sanja Fidler</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/29.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
-        <li>Generating Diverse Programs with Instruction Conditioned Reinforced Adversarial Learning- <i>Aishwarya Agrawal, Mateusz Malinowski, Felix Hill, Ali Eslami, Oriol Vinyals, Tejas Kulkarni</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/22.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
-        <li>Learning to Caption Images by Asking Natural Language Questions- <i>Kevin Shen, Amlan Kar, Sanja Fidler</i>  <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/18.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
-        <li>Generating Animated Videos of Human Activities from Natural Language Descriptions - <i>Angela S. Lin, Lemeng Wu, Rodolfo Corona, Kevin Tai, Qixing Huang, Raymond J. Mooney</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/9.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
-        <li>Multimodal Abstractive Summarization for Open-Domain Videos - <i>Jindrich Libovicky, Shruti Palaskar, Spandana Gella, Florian Metze</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/8.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
         <!-- <li></li> -->
       </ul>
       </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
       <li>10:50 AM : Invited Speaker 3: Douwe Kiela - Learning Multimodal Embeddings  | <a href="https://github.com/nips2018vigil/nips2018vigil.github.io/raw/master/static/slides/Misinterpreting%20Wittgenstein%20Presentation.pdf">Slides</a>  </li>
-      <li>11:30 AM : Invited Speaker 4: Roozbeh Mottaghi - Interactive Scene Understanding </li>
+      <li>11:30 AM : Invited Speaker 4:  </li>
       <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
       <li>01:10 PM : Break                                  </li>
-      <li>01:40 PM : Invited Speaker 5: Angeliki Lazaridou - Emergence of (linguistic communication) through multi-agent interactions </li>
-      <li>02:20 PM : Invited Speaker 6: Barbara Landau - Learning simple spatial terms: Core and more     </li>
+      <p><b>Deep Learning to understand Scientific Models</b></p>
+      <li>01:40 PM : Invited Speaker 5: Konstantinos Spiliopoulos - DGM: A deep learning algorithm for solving partial differential equations </li>
+      <li>02:20 PM : Invited Speaker 6:      </li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
-      <li>03:50 PM : Invited Speaker 7: Joyce Y. Chai - Language Communication with Robots </li>
-      <li>04:30 PM : Invited Speaker 8: Christopher Manning - Towards real-world visual reasoning | <a href="https://stanford.app.box.com/s/5ce8qqylqj41ytnyxzme4mq9vx587mm6">Slides</a></li>
+      <li>03:50 PM : Invited Speaker 7:  </li>
+      <li>04:30 PM : Invited Speaker 8:  </li>
       <li>05:10 PM : Panel Discussion                       </li>
       <li>06:00 PM : Closing Remarks                        </li>
     </ul>
