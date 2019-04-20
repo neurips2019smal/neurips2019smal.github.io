@@ -139,6 +139,7 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
   <div class="col-xs-12">
     <ul>
       <li>08:30 AM : Opening Remarks                        </li>
+      <br>
       <p><b>Scientific Models to understand Deep Learning</b></p>
       <li>08:40 AM : Invited Speaker 1: Surya Ganguli - An analytic theory of generalization dynamics and transfer learning in deep linear networks  | <a href="https://google.com">Slides (still unavailable)</a> </li>
       <li>09:20 AM : Invited Speaker 2: Terrence Tao - On the universality of the incompressible Euler equation on compact manifolds, II. Non-rigidity of Euler flows   | <a href="https://google.com">Slides (still unavailable)</a> </li>
@@ -159,6 +160,7 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
       <li>11:30 AM : Invited Speaker 4:  </li>
       <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
       <li>01:10 PM : Break                                  </li>
+      <br>
       <p><b>Deep Learning to understand Scientific Models</b></p>
       <li>01:40 PM : Invited Speaker 5: Konstantinos Spiliopoulos - DGM: A deep learning algorithm for solving partial differential equations </li>
       <li>02:20 PM : Invited Speaker 6:      </li>
