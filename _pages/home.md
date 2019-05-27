@@ -381,10 +381,14 @@ We aim to bring together researchers across the mathematical sciences to discuss
   </div>
 </div>
 <div class="row">
-  <br><a id="note1" href="#note1ref">[1]</a> Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
+  <a id="note1" href="#note1ref">[1]</a> Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
   
   <br><a id="note1" href="#note1ref">[2]</a> Pratik Chaudhari et al. "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks." ICLR, 2018.
   
   <br><a id="note4" href="#note4ref">[4]</a> J. Sirignano∗ and K. Spiliopoulos "DGM: A deep learning algorithm for solving partial differential equations." Science, 2018.
 </div>
+
+<br><br><br><br><br><br><br>
+
+
 
