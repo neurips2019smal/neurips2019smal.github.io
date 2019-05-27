@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Scientific Models and Machine Learning (SMMaL)</h1></center>
+    <center><h1>Scientific Models<sup>[1](#myfootnote1)</sup> and Machine Learning (SMMaL)</h1></center>
     <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 13th December, 08:30 AM to 06:30 PM,
@@ -40,7 +40,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
 <p>
-Machine Learning with Deep Neural Networks has been progressively adapted as a computational tool in the natural sciences and mathematics. Significant advances have been made in enhancing numerical simulation methods with ML and solving complex dynamical equations. Deep models are also accelerating progress in other mathematical sciences, such as electrical and computer engineering, medicine, chemistry, and biology.  However, a complete understanding of the dynamics of DNNs themselves is lacking, leading researchers to question their fundamental understanding of this progress and its sustainability.  This workshop aims to address a tension between between two viewpoints, one in which machine learning is used as a tool for progress and understanding and another that aims to understand why the tool is so effective.  We aim to provide a venue to explore the give-and-take relationship between the mathematical sciences and ML with the aim of gaining deeper insight into the mathematics of ML and how/when to use ML algorithms to solve mathematical problems in science.</p>
+Machine Learning with Deep Neural Networks has been progressively adapted as a computational tool in the natural sciences and mathematics. Significant advances have been made in enhancing numerical simulation methods with ML and solving complex dynamical equations. Deep models are also accelerating progress in other mathematical sciences, such as electrical and computer engineering, medicine, chemistry, and biology.  However, a complete understanding of the dynamics of DNNs themselves is lacking, leading researchers to question their fundamental understanding of this progress and its sustainability.  This workshop aims to address a tension between two viewpoints, one in which machine learning is used as a tool for progress and understanding and another that aims to understand why the tool is so effective.  We aim to provide a venue to explore the give-and-take relationship between the mathematical sciences and ML with the aim of gaining deeper insight into the mathematics of ML and how/when to use ML algorithms to solve mathematical problems in science.</p>
 
 <!--This workshop is placed in the tension between the two viewpoints, exploring the take-and-give relationship between mathematical sciences and ML with the aim of gaining deeper insight into the mathematics of ML, and using ML algorithms to solve mathematical problems in science.-->
 
@@ -392,3 +392,6 @@ We aim to bring together researchers across the mathematical sciences to discuss
     </ol>
   </div>
 </div>
+
+
+<a name="myfootnote1">1</a>: Footnote content goes here
