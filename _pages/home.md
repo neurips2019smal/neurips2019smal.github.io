@@ -395,4 +395,5 @@ We aim to bring together researchers across the mathematical sciences to discuss
 
 
 <a id="myfootnote1">1</a>: Footnote content goes here
+
 [1]: Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
