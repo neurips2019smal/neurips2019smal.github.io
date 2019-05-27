@@ -381,13 +381,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
   </div>
 </div>
 <div class="row">
-  <div class="col-md-12">
-    <li>
-      <a id="note1" href="#note1ref">[1]</a> Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
-    </li>
-    <li>
-      <a id="note1" href="#note1ref">[2]</a> Pratik Chaudhari et al. "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks." ICLR, 2018.
-    </li>
-  </div>
+  <a id="note1" href="#note1ref">[1]</a> Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
+  <a id="note1" href="#note1ref">[2]</a> Pratik Chaudhari et al. "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks." ICLR, 2018.
 </div>
 
