@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Scientific Models<sup>[1](#myfootnote1)</sup> and Machine Learning (SMMaL)</h1></center>
+    <center><h1>Scientific Models<a href="#note1" id="note1ref"><sup>3</sup></a> and Machine Learning (SMMaL)</h1></center>
     <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 13th December, 08:30 AM to 06:30 PM,
@@ -397,3 +397,4 @@ We aim to bring together researchers across the mathematical sciences to discuss
 <a id="myfootnote1">1</a>: Footnote content goes here
 
 [1]: Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
+<a id="note1" href="#note1ref"><sup>3</sup></a>Here is the footnote text.
