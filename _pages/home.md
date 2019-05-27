@@ -47,7 +47,7 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
 <p>
 We aim to bring together researchers across the mathematical sciences to discuss and learn about the exchange in both directions: 1) how domain-specific mathematical models are being used to understand machine learning models and 2) how machine learning models are being used to solve problems that domain-specific models cannot.  The primary objective is to understand where our fundamental knowledge in these domains and machine learning overlap and where they deviate and to understand the nature of this deviation.</p>
 
-<p>Examples of 1 include (but are not limited to) the use of control theory to understand deep reinforcement learning or Fokker-Plank equation to understand Stochastic Gradient Descent<sup>[2](#myfootnote1)</sup>.  In each case, a well established mathematical foundation has been established and can be used to anchor the interrogation of well-performing machine learning models.  Examples of 2 include using machine learning to learn physical laws or the data-driven discovery of PDEs.  We are interested in works that explain where domain-specific approaches overlap with ML models and where they deviate and works that attempts to understand the nature of this deviation, using mathematically-grounded or empirically driven approaches.
+<p>Examples of 1 include (but are not limited to) the use of control theory to understand deep reinforcement learning or Fokker-Plank equation to understand Stochastic Gradient Descent<sup>[2](#myfootnote1)</sup> [1].  In each case, a well established mathematical foundation has been established and can be used to anchor the interrogation of well-performing machine learning models.  Examples of 2 include using machine learning to learn physical laws or the data-driven discovery of PDEs.  We are interested in works that explain where domain-specific approaches overlap with ML models and where they deviate and works that attempts to understand the nature of this deviation, using mathematically-grounded or empirically driven approaches.
 </p>
 
 </div>
@@ -394,4 +394,5 @@ We aim to bring together researchers across the mathematical sciences to discuss
 </div>
 
 
-<a name="myfootnote1">1</a>: Footnote content goes here
+<a id="myfootnote1">1</a>: Footnote content goes here
+[1]: Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
