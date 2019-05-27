@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 13th December, 08:30 AM to 06:30 PM,
-      Room: 512 CDGH
+      Room: to be specified
     </span></center>
   </div>
 </div>
