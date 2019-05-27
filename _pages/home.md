@@ -47,7 +47,7 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
 <p>
 We aim to bring together researchers across the mathematical sciences to discuss and learn about the exchange in both directions: 1) how domain-specific mathematical models are being used to understand machine learning models and 2) how machine learning models are being used to solve problems that domain-specific models cannot.  The primary objective is to understand where our fundamental knowledge in these domains and machine learning overlap and where they deviate and to understand the nature of this deviation.</p>
 
-<p>Examples of 1 include (but are not limited to) the use of control theory to understand deep reinforcement learning or Fokker-Plank equation to understand Stochastic Gradient Descent<a href="#note1" id="note1ref">[1-2]</a>.  In each case, a well established mathematical foundation has been established and can be used to anchor the interrogation of well-performing machine learning models.  Examples of 2 include using machine learning to learn physical laws or the data-driven discovery of PDEs.  We are interested in works that explain where domain-specific approaches overlap with ML models and where they deviate and works that attempts to understand the nature of this deviation, using mathematically-grounded or empirically driven approaches.
+<p>Examples of 1 include the use of control theory to understand deep reinforcement learning or the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a>.  In each case, a well established mathematical foundation has been established and can be used to anchor the interrogation of well-performing machine learning models. Examples of 2 include using machine learning to learn physical laws or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note3" id="note3ref">[4]</a>.  We are interested in works that explain where domain-specific approaches overlap with ML models and where they deviate and works that attempts to understand the nature of this deviation, using mathematically-grounded or empirically driven approaches.
 </p>
 
 </div>
@@ -382,6 +382,9 @@ We aim to bring together researchers across the mathematical sciences to discuss
 </div>
 <div class="row">
   <a id="note1" href="#note1ref">[1]</a> Qianxiao Li et al. "Stochastic modified equations and adaptive stochastic gradient algorithms." ICML, 2017.
+  
   <a id="note1" href="#note1ref">[2]</a> Pratik Chaudhari et al. "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks." ICLR, 2018.
+  
+  <a id="note4" href="#note4ref">[4]</a> J. Sirignano∗ and K. Spiliopoulos "DGM: A deep learning algorithm for solving partial differential equations." Science, 2018.
 </div>
 
