@@ -387,7 +387,9 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <br><a id="note4" href="#note4ref">[4]</a> G. Carleo, M. Troyer ["Solving the Quantum Many-Body Problem with Artificial Neural Networks."](https://science.sciencemag.org/content/355/6325/602) Science, 2017.
 
   <br><a id="note5" href="#note5ref">[5]</a> J. Sirignano and K. Spiliopoulos "DGM: A deep learning algorithm for solving partial differential equations." Science, 2018.
-  <br><a id="note6" href="#note6ref">[6]</a> R. Porotti, D. Tamascelli, M. Restelli, E. Prati ["Coherent Transport of Quantum States by Deep Reinforcement Learning."](https://arxiv.org/abs/1901.06603) ArXiv, 2019.
+  <br><a id="note6" href="#note6ref">[6]</a> R. Porotti, D. Tamascelli, M. Restelli, E. Prati 
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/abs/1901.06603">Coherent Transport of Quantum States by Deep Reinforcement Learning.</a></span>
+  ArXiv, 2019.
 </div>
 
 <br><br><br><br><br><br><br>
