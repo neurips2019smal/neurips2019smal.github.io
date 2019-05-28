@@ -47,7 +47,7 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
 <p>
 We aim to bring together researchers across the mathematical sciences to discuss and learn about the exchange in both directions: 1) how domain-specific mathematical models are being used to understand machine learning models and 2) how machine learning models are being used to solve problems that domain-specific models cannot.  The primary objective is to understand where our fundamental knowledge in these domains and machine learning overlap and where they deviate and to understand the nature of this deviation.</p>
 
-<p>Examples of 1 include the use of control theory to understand deep reinforcement learning or the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a>. In each case, a well established mathematical foundation exists that can be used to anchor the interrogation of well-performing machine learning models. Examples of 2 include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note4" id="note4ref">[4]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note5" id="note5ref">[5]</a>.  We are interested in works that explain where domain-specific approaches overlap with ML models and where they deviate and works that attempts to understand the nature of this deviation, using mathematically-grounded or empirically driven approaches.
+<p>Examples of 1 include the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a> or the use of Game Theory to provide robustness to trained networks to adversarial attacks. In each case, a well established mathematical foundation exists that can be used to anchor the interrogation of well-performing machine learning models <a href="#note3" id="note3ref">[3]</a>. Examples of 2 include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note4" id="note4ref">[4]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note5" id="note5ref">[5]</a>.  We are interested in works that explain where domain-specific approaches overlap with ML models and where they deviate and works that attempts to understand the nature of this deviation, using mathematically-grounded or empirically driven approaches.
 </p>
 
 </div>
@@ -388,6 +388,12 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <br><a id="note1" href="#note1ref">[2]</a> P. Chaudhari and S. Soatto  
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1710.11029.pdf">Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks.</a></span> 
   ICLR, 2018.
+
+  <br><a id="note3" href="#note3ref">[3]</a> G. S. Dhillon1, K. Azizzadenesheli, Z. C. Lipton, J. Bernstein, J. Kossaifi, A. Khanna, A. Anandkumar
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://science.sciencemag.org/content/355/6325/602">Stochastic Activation Pruning for Robust Adversarial Defense.</a></span> 
+  ICLR, 2018.
+
+  https://openreview.net/pdf?id=H1uR4GZRZ
   
   <br><a id="note4" href="#note4ref">[4]</a> G. Carleo and M. Troyer
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://science.sciencemag.org/content/355/6325/602">Solving the Quantum Many-Body Problem with Artificial Neural Networks.</a></span> 
