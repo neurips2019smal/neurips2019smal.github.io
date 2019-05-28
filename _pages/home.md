@@ -47,7 +47,7 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
 <p>
 We aim to bring together researchers across the mathematical sciences to discuss and learn about the exchange in both directions: 1) how domain-specific mathematical models are being used to understand machine learning and 2) how machine learning is being used to solve problems in domain-specific models.  The primary objective is to understand where our fundamental knowledge in these domains and machine learning overlap and where they deviate and to understand the nature of this deviation.</p>
 
-<p>Examples of 1) include the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a> or the use of Game Theory to provide robustness to trained networks to adversarial attacks. In each case, a well established mathematical foundation exists that can halp enquire about the performance of machine learning models <a href="#note3" id="note3ref">[3]</a>. Examples of 2) include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note4" id="note4ref">[4]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note5" id="note5ref">[5]</a>. Therefore tackling long standing mathematical questions taking advantage of the features introduced by machine learning.
+<p>Examples of 1) include the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a> or the use of Game Theory to provide robustness to trained networks to adversarial attacks <a href="#note3" id="note3ref">[3]</a>. In each case, a well established mathematical foundation exists that can halp enquire about the performance of machine learning models. Examples of 2) include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note4" id="note4ref">[4]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note5" id="note5ref">[5]</a>. Therefore tackling long standing mathematical questions taking advantage of the features introduced by machine learning.
 </p>
 
 </div>
@@ -406,6 +406,17 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <br><a id="note6" href="#note6ref">[6]</a> R. Porotti, D. Tamascelli, M. Restelli, E. Prati 
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/abs/1901.06603">Coherent Transport of Quantum States by Deep Reinforcement Learning.</a></span>
   ArXiv, 2019.
+
+  <br>[7] T. Wu, M. Tegmark
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1810.10525.pdf">Toward an AI Physicist for Unsupervised Learning.</a></span>
+  ArXiv, 2018.
+
+
+
+
+
+
+
 </div>
 
 <br><br><br><br><br><br><br>
