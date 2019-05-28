@@ -414,8 +414,14 @@ We aim to bring together researchers across the mathematical sciences to discuss
   ICLR, 2017.
 
 
+  <br>[9] Z. Nado, J. Snoek, B. Xu, R. Grosse, D. Duvenaud, J. Martens
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=ry-Se9kvG
+">Stochastic Gradient Langevin Dynamics that Exploit Neural Network Structure.</a></span>
+  ICLR, 2018.
 
-
+  <br>[10] Z. Nado, J. Snoek, B. Xu, R. Grosse, D. Duvenaud, J. Martens
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1612.08544.pdf">Theory-guided Data Science: A New Paradigm for Scientific Discovery from Data.</a></span>
+  IEEE Transactions on Knowledge and Data Engineering, 2017.
 
 
 </div>
