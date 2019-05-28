@@ -390,10 +390,8 @@ We aim to bring together researchers across the mathematical sciences to discuss
   ICLR, 2018.
 
   <br><a id="note3" href="#note3ref">[3]</a> G. S. Dhillon1, K. Azizzadenesheli, Z. C. Lipton, J. Bernstein, J. Kossaifi, A. Khanna, A. Anandkumar
-  <span style="color:#1a1aff;font-weight:400;"> <a href="https://science.sciencemag.org/content/355/6325/602">Stochastic Activation Pruning for Robust Adversarial Defense.</a></span> 
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=H1uR4GZRZ">Stochastic Activation Pruning for Robust Adversarial Defense.</a></span> 
   ICLR, 2018.
-
-  https://openreview.net/pdf?id=H1uR4GZRZ
   
   <br><a id="note4" href="#note4ref">[4]</a> G. Carleo and M. Troyer
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://science.sciencemag.org/content/355/6325/602">Solving the Quantum Many-Body Problem with Artificial Neural Networks.</a></span> 
