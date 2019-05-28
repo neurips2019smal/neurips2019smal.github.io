@@ -409,6 +409,9 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1810.10525.pdf">Toward an AI Physicist for Unsupervised Learning.</a></span>
   ArXiv, 2018.
 
+  <br>[8] S. S. Schoenholz, J. Gilmer, S. Ganguli, J. Sohl-Dickstein
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=H1W1UN9gg">Deep Information Propagation.</a></span>
+  ICLR, 2017.
 
 
 
