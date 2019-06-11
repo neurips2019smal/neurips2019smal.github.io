@@ -47,7 +47,7 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
 <p>
 We aim to bring together researchers across the mathematical sciences to discuss and learn about the exchange in both directions: 1) how domain-specific mathematical models are being used to understand machine learning and 2) how machine learning is being used to solve problems in domain-specific models.  The primary objective is to understand where our fundamental knowledge in these domains and machine learning overlap and where they deviate and to understand the nature of this deviation.</p>
 
-<p>Examples of 1) include the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a> or the use of Game Theory to provide robustness to trained networks to adversarial attacks <a href="#note3" id="note3ref">[3]</a>. In each case, a well established mathematical foundation exists that can halp enquire about the performance of machine learning models. Examples of 2) include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note4" id="note4ref">[4]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note5" id="note5ref">[5]</a>. Therefore tackling long standing mathematical questions taking advantage of the features introduced by machine learning.
+<p>Examples of 1) include the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a>, the use of Game Theory to provide robustness to trained networks to adversarial attacks <a href="#note3" id="note3ref">[3]</a> or Complexity Theory to understand how Recurrent Networks can achieve super Universal Turing Machine capabilities <a href="#note4" id="note4ref">[4-5]</a>. In each case, a well established mathematical foundation exists that can halp enquire about the performance of machine learning models. Examples of 2) include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note6" id="note6ref">[6]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note7" id="note7ref">[7]</a>. Therefore tackling long standing mathematical questions taking advantage of the features introduced by machine learning.
 </p>
 
 </div>
@@ -393,33 +393,51 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=H1uR4GZRZ">Stochastic Activation Pruning for Robust Adversarial Defense.</a></span> 
   ICLR, 2018.
   
-  <br><a id="note4" href="#note4ref">[4]</a> G. Carleo and M. Troyer
+  
+
+  
+  <br><a id="note4" href="#note4ref">[4]</a> H.T. Siegelmann and E.D. Sontag
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://pdf.sciencedirectassets.com/272574/1-s2.0-S0022000000X00360/1-s2.0-S0022000085710136/main.pdf?x-amz-security-token=AgoJb3JpZ2luX2VjEIP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIG7N1TvjUHLWQrdS8tQz3KTq2a1Tj4xGM58709NGZjTUAiEAg9EROQsxFp%2F%2FaSRR2CLGjGFF3af76eh64gnUnO%2B14Ukq4wMIrP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARACGgwwNTkwMDM1NDY4NjUiDGcHqSFyN5NbhLF2JCq3A49Xw3XDjCOBugnZhO0PdiVRwbLwWrOpy8ErrabGYltqbK7D0ayZCutvH4OHhW1iflrPgatXtJsp1iEnCPj%2BxvbS%2Fc2zsOGDEdxyEMiE47un2GXKovQOTrwmqox8fEuFK0Ip6cLby%2F4fPscc5FV9uTwEyUcbX6dMEcIdeJW1VvAKZPucFX6xHQYDDPfis8Rb3vw8%2F6RjpVI4kLrp%2FdyYzL9UgjwrAWMhelbkPqbd7qnCXHBQTAWdMox5DFuJy2bWfuLpm%2FYTJgRTb2JNvO%2BkgaHrdhoEpGCANq5XdVN8T3COo4%2B8SXAg1X%2FcyMf5JD0nsW1We6myTDnF%2FDoub4UQIN3l4loxC1dwz9dyWBWODknHdzlDPagu%2FiRJfgwIYwVcKgYNaa7a0NlcFPAOgTuKb1IHSClmlfnQLPOuIfgys9ckGcsZ%2FZnhESM4DaozCeqj%2FnPx0NtSotfquXVJoXkS9h7S1WG1nJ4ZZ%2BaNsQLbmV3dVZoyNqPNLkzSTBE8fNNLspqSxRd9ZQm6dXeJYbTGEFP3azqZ86BtSpxNaUEG1bYyp5hCO%2BUHHT5LxE05Iub5GgksL2WvcQQw7O3%2F5wU6tAFyMBLu0kulw3zYCyB9qOF0%2FuhAUXfead08i%2BZAcafQKS92boEElJN5cUop0NXOnsdnoZNrecaFhwUptgBrrtYPOwnLKs3ifhucSrTg3xG%2BHEOF%2BLnB4qGmslweCS2UHAwoPxUXgCMNWQaWTFAhNnpMxDbAdtGpI7tOc2pmZbF1kiR%2Bk%2BZFXqWyeoN649nKg41xJbBF9XbcsR16nKN%2BiQgV9%2F3VNcL4Up9Wp0NUCiBHMEsZ8Yg%3D&AWSAccessKeyId=ASIAQ3PHCVTY24J2UZLE&Expires=1560280614&Signature=2EA9ajQ7E7lxnKGcVfOUEIznF2Q%3D&hash=ea8753eb8f32e979b698ea2e36e2cf36a9f1b28926044de04b6a889359131625&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0022000085710136&tid=spdf-ae0b997b-814f-400f-8aba-4ae0a00dc595&sid=406effae72007249516a78029a955bfad9dfgxrqa&type=client">On the Computational Power of Neural Nets.</a></span> 
+  Science, 1995.
+  
+  <br><a id="note5" href="#note5ref">[5]</a>H.T. Siegelmann and E.D. Sontag
+  <span style="color:#1a1aff;font-weight:400;"> <a href="https://science.sciencemag.org/content/355/6325/602">Analog computation via neural networks.</a></span> 
+  Science, 1994.  
+  
+  
+  
+  
+  
+  
+  
+  
+  <br><a id="note6" href="#note6ref">[6]</a> G. Carleo and M. Troyer
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://science.sciencemag.org/content/355/6325/602">Solving the Quantum Many-Body Problem with Artificial Neural Networks.</a></span> 
   Science, 2017.
   
-  <br><a id="note5" href="#note5ref">[5]</a> J. Sirignano and K. Spiliopoulos  
+  <br><a id="note7" href="#note7ref">[7]</a> J. Sirignano and K. Spiliopoulos  
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.sciencedirect.com/science/article/pii/S0021999118305527">DGM: A deep learning algorithm for solving partial differential equations.</a></span>
   Science, 2018.
   
-  <br><a id="note6" href="#note6ref">[6]</a> R. Porotti, D. Tamascelli, M. Restelli, E. Prati 
+  <br><a id="note8" href="#note8ref">[8]</a> R. Porotti, D. Tamascelli, M. Restelli, E. Prati 
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/abs/1901.06603">Coherent Transport of Quantum States by Deep Reinforcement Learning.</a></span>
   ArXiv, 2019.
 
-  <br>[7] T. Wu, M. Tegmark
+  <br>[9] T. Wu, M. Tegmark
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1810.10525.pdf">Toward an AI Physicist for Unsupervised Learning.</a></span>
   ArXiv, 2018.
 
-  <br>[8] S. S. Schoenholz, J. Gilmer, S. Ganguli, J. Sohl-Dickstein
+  <br>[10] S. S. Schoenholz, J. Gilmer, S. Ganguli, J. Sohl-Dickstein
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=H1W1UN9gg">Deep Information Propagation.</a></span>
   ICLR, 2017.
 
 
-  <br>[9] Z. Nado, J. Snoek, B. Xu, R. Grosse, D. Duvenaud, and J. Martens
+  <br>[11] Z. Nado, J. Snoek, B. Xu, R. Grosse, D. Duvenaud, and J. Martens
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://openreview.net/pdf?id=ry-Se9kvG
 ">Stochastic Gradient Langevin Dynamics that Exploit Neural Network Structure.</a></span>
   ICLR, 2018.
 
-  <br>[10] A. Karpatne, G. Atluri, J. H. Faghmous, M. Steinbach, A. Banerjee, A. Ganguly, S. Shekhar, N. Samatova, and V. Kumar
+  <br>[12] A. Karpatne, G. Atluri, J. H. Faghmous, M. Steinbach, A. Banerjee, A. Ganguly, S. Shekhar, N. Samatova, and V. Kumar
   <span style="color:#1a1aff;font-weight:400;"> <a href="https://arxiv.org/pdf/1612.08544.pdf">Theory-guided Data Science: A New Paradigm for Scientific Discovery from Data.</a></span>
   IEEE Transactions on Knowledge and Data Engineering, 2017.
 
