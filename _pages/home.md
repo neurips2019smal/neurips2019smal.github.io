@@ -170,7 +170,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
       <li>01:40 PM : Invited Speaker 5: Konstantinos Spiliopoulos - DGM: A deep learning algorithm for solving partial differential equations  | <a href="https://google.com">Slides (still unavailable)</a></li>
       <li>02:20 PM : Invited Speaker 6: Matthias Troyer - DGM: A deep learning algorithm for solving partial differential equations.      | <a href="https://google.com">Slides (still unavailable)</a></li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
-      <li>03:50 PM : Invited Speaker 7:  </li>
+      <li>03:50 PM : Invited Speaker 7: Weinan E - DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics   | <a href="https://google.com">Slides (still unavailable)</a></li>
       <li>04:30 PM : Invited Speaker 8:  </li>
       <li>05:10 PM : Panel Discussion                       </li>
       <li>06:00 PM : Closing Remarks                        </li>
@@ -258,7 +258,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/mathiastroyer.jpg" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/matthiastroyer.jpg" | prepend:site.baseurl }}">
     <p><b>Matthias Troyer</b>
     is been professor at ETH Zurich and has now joined Microsoft’s quantum computing program. He works on a variety of topics in quantum computing, from the simulation of materials and quantum devices to quantum software, algorithms and applications of future quantum computers. His broader research interests span from high performance computing and quantum computing to the simulations of quantum devices and island ecosystems.
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.microsoft.com/en-us/research/people/mtroyer/">Webpage</a>]</span></p>
@@ -270,7 +270,8 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/weinane.jpg" | prepend:site.baseurl }}">
     <p><b>Weinan E</b>
-    is Professor of .
+    is Professor in Applied and Computational Mathematics at Princeton University.
+    He has worked on various disciplines of sciences and has contributed to the resolution of some long standing scientific problems such as the Burgers turbulence problem, the Cauchy-Born rule for crystalline solids, and the moving contact line problem. He is interested in bringing clarity to scientific issues through mathematics and in multi-scale and/or multi-physics problems. He has also worked on building the mathematical framework and finding effective numerical algorithms for modeling rare events and has developed diverse tools to analyze algorithms.
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://web.math.princeton.edu/~weinan/">Webpage</a>]</span></p>
   </div>
 </div><br>
