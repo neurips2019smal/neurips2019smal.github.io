@@ -289,7 +289,9 @@ We aim to bring together researchers across the mathematical sciences to discuss
 <div class="row">
 <div class="col-xs-12">
   <ul>
-    <li>Modelling Visual Properties and Visual Context in Multimodal Semantics - <i>Christopher Davis, Luana Bulat, Anita Vero, Ekaterina Shutova</i> <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/accepted/1.pdf" | prepend:site.baseurl }}">pdf</a>]</span></li>
+    <li></li>
+    <li></li>
+    <li></li>
 
   </ul>
 </div>
@@ -324,7 +326,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
     </div>
   </div>
 
-<div class="col-xs-3">
+  <div class="col-xs-3">
     <a href="https://lucehe.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
     </a>
@@ -333,8 +335,17 @@ We aim to bring together researchers across the mathematical sciences to discuss
       <h6>Université de Sherbrooke</h6>
     </div>
   </div>
-
-</div>
+  
+  <div class="col-xs-3">
+    <a href="https://www.ece.rutgers.edu/jorge-ortiz">
+      <img class="people-pic" src="{{ "/static/img/people/jortiz.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.ece.rutgers.edu/jorge-ortiz">Jorge Ortiz</a>
+      <h6>Rutgers, The State University of New Jersey</h6>
+    </div>
+  </div>
+  </div>
 
 <hr>
 
