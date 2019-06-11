@@ -47,7 +47,7 @@ Machine Learning with Deep Neural Networks has been progressively adapted as a c
 <p>
 We aim to bring together researchers across the mathematical sciences to discuss and learn about the exchange in both directions: 1) how domain-specific mathematical models are being used to understand machine learning and 2) how machine learning is being used to solve problems in domain-specific models.  The primary objective is to understand where our fundamental knowledge in these domains and machine learning overlap and where they deviate and to understand the nature of this deviation.</p>
 
-<p>Examples of 1) include the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a>, the use of Game Theory to provide robustness to trained networks to adversarial attacks <a href="#note3" id="note3ref">[3]</a> or Complexity Theory to understand how Recurrent Networks can achieve super Universal Turing Machine capabilities <a href="#note4" id="note4ref">[4-5]</a>. In each case, a well established mathematical foundation exists that can halp enquire about the performance of machine learning models. Examples of 2) include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note6" id="note6ref">[6]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note7" id="note7ref">[7]</a>. Therefore tackling long standing mathematical questions taking advantage of the features introduced by machine learning.
+<p>Examples of 1) include the use of Fokker-Plank equation and Stochastic Differential Equations to understand Stochastic Gradient Descent <a href="#note1" id="note1ref">[1-2]</a>, the use of Game Theory to provide robustness to trained networks to adversarial attacks <a href="#note3" id="note3ref">[3]</a> or Complexity Theory to understand how Recurrent Networks can achieve super Universal Turing Machine capabilities <a href="#note4" id="note4ref">[4-5]</a>. In each case, a well established mathematical foundation exists that can help enquire about the performance of machine learning models. Examples of 2) include using machine learning to solve the the Quantum Many-Body Problem  <a href="#note6" id="note6ref">[6]</a>,  or using deep networks to find solutions of high dimensional Partial Diferential Equations <a href="#note7" id="note7ref">[7]</a>. Therefore tackling long standing mathematical questions taking advantage of the features introduced by machine learning.
 </p>
 
 </div>
@@ -162,7 +162,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
       </li>
       <li>10:30 AM : Coffee Break (20min)                   </li>
       <li>10:50 AM : Invited Speaker 3: Aasa Feragen - Geometry and Statistics: Manifolds and Stratified Spaces  | <a href="https://google.com">Slides (still unavailable)</a>  </li>
-      <li>11:30 AM : Invited Speaker 4:  </li>
+      <li>11:30 AM : Invited Speaker 4: Hava Siegelmann - Analog computation via neural networks | <a href="https://google.com">Slides (still unavailable)</a></li>
       <li>12:10 PM : Poster Session <b>Lunch provided!</b> </li>
       <li>01:10 PM : Break                                  </li>
       <br>
@@ -206,6 +206,22 @@ We aim to bring together researchers across the mathematical sciences to discuss
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://sites.google.com/site/aasaferagen/">Webpage</a>]</span></p>
   </div>
 </div><br>
+
+
+
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/siegelmann.jpg" | prepend:site.baseurl }}">
+    <p><b>Hava T. Siegelmann</b>
+    is Professor of Computer Science at University of Massachusetts Amherst. She's a recognized expert in Complex Systems and Neural Networks, focuses on theoretical computational neuroscience, computation in and modeling of natural systems and their application to intelligent systems. Of particular research interest are intelligence vis-a-vis adaptive memory, advanced models of cognition, and evolving, intelligent interfaces for robotics and other intelligent systems. Her studies often involve multi-scale modeling and system level analysis of major disorders such as cancer. The creator of a new field of computer science, Super-Turing computation, Dr. Siegelmann is applying the theory to biological systems and exploring them in connection with a new generation of analog computer.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.cics.umass.edu/faculty/directory/siegelmann_hava">Webpage</a>]</span></p>
+  </div>
+</div><br>
+
+
+
+
 
 
 <div class="row">
