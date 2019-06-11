@@ -167,8 +167,8 @@ We aim to bring together researchers across the mathematical sciences to discuss
       <li>01:10 PM : Break                                  </li>
       <br>
       <p><b>Deep Learning to understand Scientific Models</b></p>
-      <li>01:40 PM : Invited Speaker 5: Konstantinos Spiliopoulos - DGM: A deep learning algorithm for solving partial differential equations </li>
-      <li>02:20 PM : Invited Speaker 6:      </li>
+      <li>01:40 PM : Invited Speaker 5: Konstantinos Spiliopoulos - DGM: A deep learning algorithm for solving partial differential equations  | <a href="https://google.com">Slides (still unavailable)</a></li>
+      <li>02:20 PM : Invited Speaker 6: Matthias Troyer - DGM: A deep learning algorithm for solving partial differential equations.      | <a href="https://google.com">Slides (still unavailable)</a></li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
       <li>03:50 PM : Invited Speaker 7:  </li>
       <li>04:30 PM : Invited Speaker 8:  </li>
@@ -251,6 +251,17 @@ We aim to bring together researchers across the mathematical sciences to discuss
     <p><b>Konstantinos Spiliopoulos</b>
     is Professor of .
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://math.bu.edu/people/kspiliop/">Webpage</a>]</span></p>
+  </div>
+</div><br>
+
+
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/mathiastroyer.jpg" | prepend:site.baseurl }}">
+    <p><b>Matthias Troyer</b>
+    is been professor at ETH Zurich and has now joined Microsoft’s quantum computing program. He works on a variety of topics in quantum computing, from the simulation of materials and quantum devices to quantum software, algorithms and applications of future quantum computers. His broader research interests span from high performance computing and quantum computing to the simulations of quantum devices and island ecosystems.
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.microsoft.com/en-us/research/people/mtroyer/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
