@@ -239,7 +239,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/amygreenwald.png" | prepend:site.baseurl }}">
     <p><b>Amy R. Greenwald</b>
-    is Professor of.
+    is Professor of Computer Science at Brown University. Her work splits in twin research goals: first, the effort to design and implement AI agents that interact effectively in multiagent environments; second, the effort to understand, explain, and accurately predict the dynamics of such interactions. In pursuing these goals, Prof. Greenwald draws from theoretical and practical sources, including a variety of disciplines such as AI, decision theory, game theory, and economics.
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://cs.brown.edu/people/faculty/amy/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -249,7 +249,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/konstantinosspiliopoulos.jpg" | prepend:site.baseurl }}">
     <p><b>Konstantinos Spiliopoulos</b>
-    is Professor of .
+    is Professor at the Department of Mathematics and Statistics, Boston University. His research lies broadly in the area of stochastic processes, applied mathematics and probability, large deviations, multiscale methods, financial mathematics, asymptotic problems for stochastic processes and partial differential equations , statistical inference for stochastic differential equations and statistical learning.
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://math.bu.edu/people/kspiliop/">Webpage</a>]</span></p>
   </div>
 </div><br>
