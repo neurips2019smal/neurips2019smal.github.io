@@ -202,7 +202,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/aasaferagen.jpg" | prepend:site.baseurl }}">
     <p><b>Aasa Feragen</b>
-    is Professor of.
+    is Professor of Computer Science at the University of Copenhagen. She is interested in uncertainty quantification for functional data in medical imaging, statistics and machine learning for data with topological variation (trees, graphs, point sets, functions, images) and nonlinear statistics; statistics in metric spaces such as Riemannian manifolds, stratified spaces, spaces of trees and graphs. She works as well on applications in medical imaging and computer visison.
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://sites.google.com/site/aasaferagen/">Webpage</a>]</span></p>
   </div>
 </div><br>
