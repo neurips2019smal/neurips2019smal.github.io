@@ -171,7 +171,7 @@ We aim to bring together researchers across the mathematical sciences to discuss
       <li>02:20 PM : Invited Speaker 6: Matthias Troyer - DGM: A deep learning algorithm for solving partial differential equations.      | <a href="https://google.com">Slides (still unavailable)</a></li>
       <li>03:00 PM : Coffee Break & Poster Session (50 mins)</li>
       <li>03:50 PM : Invited Speaker 7: Weinan E - DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics   | <a href="https://google.com">Slides (still unavailable)</a></li>
-      <li>04:30 PM : Invited Speaker 8:  </li>
+      <li>04:30 PM : Invited Speaker 8: Amy Greenwald - Learning Equilibria of Simulation-Based Games | <a href="https://google.com">Slides (still unavailable)</a></li>
       <li>05:10 PM : Panel Discussion                       </li>
       <li>06:00 PM : Closing Remarks                        </li>
     </ul>
@@ -237,10 +237,10 @@ We aim to bring together researchers across the mathematical sciences to discuss
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/animaanandkumar.jpg" | prepend:site.baseurl }}">
-    <p><b>Anima Anandkumar</b>
+    <img class="speaker-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/amygreenwald.png" | prepend:site.baseurl }}">
+    <p><b>Amy R. Greenwald</b>
     is Professor of.
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://tensorlab.cms.caltech.edu/users/anima/">Webpage</a>]</span></p>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://cs.brown.edu/people/faculty/amy/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
