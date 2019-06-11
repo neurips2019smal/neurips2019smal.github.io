@@ -98,9 +98,6 @@ We aim to bring together researchers across the mathematical sciences to discuss
   <li>stochastic differential equations to model gradient flow</li>
   <li>deep learning to solve long standing physics problems</li>
   <li>deep learning for high-dimensional Partial Differential Equations</li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ul>
     </p>
 
