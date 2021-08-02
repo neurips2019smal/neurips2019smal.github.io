@@ -1,5 +1,5 @@
-# neurips2019smal.github.io
+# https://github.com/dl-de/dl-de.github.io
 
-Webpage source files for SMaL workshop at NeurIPS 2019
+Webpage source files for DLDE workshop at NeurIPS 2021
 
-https://neurips2019smal.github.io
+dl-de.github.io

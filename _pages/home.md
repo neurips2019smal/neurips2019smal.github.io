@@ -13,10 +13,10 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Scientific Models and Machine Learning (SMMaL)</h1></center>
-    <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
+    <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE)</h1></center>
+    <center><h2>NeurIPS 2021 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      Friday, 13th December, 08:30 AM to 06:30 PM,
+      Tuesday, 14th December, 08:00 AM to 06:30 PM,
       Room: to be specified
     </span></center>
   </div>
@@ -40,6 +40,36 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
 <p>
+
+
+
+The focus of this workshop is on the interplay between deep learning (DL) and differential equations (DEs).
+In recent years, there has been a rapid increase of machine learning applications in computational sciences, with some of the most impressive results at the interface of DL and DEs. 
+These successes have widespread implications, as DEs are among the most well-understood tools for the mathematical analysis of scientific knowledge, and they are fundamental building blocks for mathematical models in engineering, finance, and the natural sciences. 
+This relationship is mutually beneficial.
+DL techniques have been used in a variety of ways to dramatically enhance the effectiveness of DE solvers and computer simulations.
+Conversely, DEs have also been used as mathematical models of the neural architectures and training algorithms arising in DL.
+
+This workshop will aim to bring together researchers from each discipline to encourage intellectual exchanges and cultivate relationships between the two communities.
+The scope of the workshop will include important topics at the intersection of DL and DEs, such as:
+
+- How can DE models provide insights into DL?
+  - What families of functions are best represented by different neural architectures?
+  - Can this connection guide the design of new neural architectures?
+  - Can DE models be used to derive bounds on generalization error?
+  - What insights can DE models provide into training dynamics?
+  - Can these insights guide the design of weight initialization schemes?    
+
+- How can DL be used to enhance the analysis of DEs?
+  - Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …)
+  - Solving highly parameterized DEs 
+  - Solving inverse problems
+  - Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)
+
+
+
+We expect to publish around 40 articles, out of 80 submissions, and 200 attendees. We plan to crowdsource revisions so every main author to submit an article is expected to review three submissions. The submission date for Workshop contributions is Sep 17, 2021 and the  Accept/Reject notification date is  Oct 17, 2021.
+
 Machine Learning with Deep Neural Networks has been progressively adapted as a computational tool in the natural sciences and mathematics. Significant advances have been made in enhancing numerical simulation methods with ML and solving complex dynamical equations. Deep models are also accelerating progress in other mathematical sciences, such as electrical and computer engineering, medicine, chemistry, and biology.  However, a complete understanding of the dynamics of DNNs themselves is lacking, leading researchers to question their fundamental understanding of this progress and its sustainability.  This workshop aims to address a tension between two viewpoints, one in which machine learning is used as a tool for progress and understanding and another that aims to understand why the tool is so effective.  We aim to provide a venue to explore the give-and-take relationship between the mathematical sciences and ML with the aim of gaining deeper insight into the mathematics of ML and how/when to use ML algorithms to solve mathematical problems in science.</p>
 
 <!--This workshop is placed in the tension between the two viewpoints, exploring the take-and-give relationship between mathematical sciences and ML with the aim of gaining deeper insight into the mathematics of ML, and using ML algorithms to solve mathematical problems in science.-->
@@ -372,19 +402,19 @@ We aim to bring together researchers across the mathematical sciences to discuss
 <div class="row">
   <div class="col-xs-12 sponsor">
     <a href="https://merl.com/">
-      <img src="{{ "/static/img/ico/merl-logo-big.jpg" | prepend:site.baseurl }}">
+      <img src="{{ "/static/img/sponsors/merl-logo-big.jpg" | prepend:site.baseurl }}">
     </a>
     <a href="https://deepmind.com/">
-      <img src="{{ "/static/img/ico/deepmind_logo.png" | prepend:site.baseurl }}">
+      <img src="{{ "/static/img/sponsors/deepmind_logo.png" | prepend:site.baseurl }}">
     </a>
         <a href="https://ai.google/">
-      <img src="{{ "/static/img/ico/googlelogo.png" | prepend:site.baseurl }}">
+      <img src="{{ "/static/img/sponsors/googlelogo.png" | prepend:site.baseurl }}">
     </a>
         <a href="https://iglu-chistera.github.io/">
-      <img src="{{ "/static/img/ico/logoIGLU-300.png" | prepend:site.baseurl }}">
+      <img src="{{ "/static/img/sponsors/logoIGLU-300.png" | prepend:site.baseurl }}">
     </a>
     <a href="http://uber.ai/">
-      <img src="{{ "/static/img/ico/logo_uber.jpg" | prepend:site.baseurl }}">
+      <img src="{{ "/static/img/sponsors/logo_uber.jpg" | prepend:site.baseurl }}">
     </a>
   </div>
 </div>
